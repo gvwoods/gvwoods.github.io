@@ -450,8 +450,10 @@ a:hover {
 
 footer {
   padding-top: 200px;
+  padding-left: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  border-top: solid 1px #275da1;
   border-bottom: solid 1px #275da1;
   text-align: center;
 }
