@@ -1,21 +1,4 @@
----
-id: 10
-title: Determine what Linux Version
-date: 2017-12-20T15:12:00-05:00
-author: George Woods
-layout: post
-permalink: /2017/12/20/determine-what-linux-version/
-blogger_blog:
-  - gvwoods.blogspot.com
-blogger_author:
-  - George Woods
-blogger_permalink:
-  - /2017/12/determine-what-linux-version.html
-blogger_internal:
-  - /feeds/27386963/posts/default/3299549005424335552
-categories:
-  - Linux
----
+
 4 different commands that you can run to see information about your Linux distro.
 
 **[oracle@server ~]$ cat /etc/issue**  
