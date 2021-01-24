@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to My Github Pages"
-author: George Woods
-date:   2021-01-24 12:15:56
-categories: [ new ]
+title: You're up and running!
 ---
 
-# Hi Welcome to my blog
-this is my first blog post on GitHub.
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
