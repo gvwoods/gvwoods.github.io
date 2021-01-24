@@ -127,11 +127,6 @@ dfn {
   font-style: italic;
 }
 
-bottom {
-        position: absolute;
-        bottom: 0;
-        right: 0;
-      }
 
 /**
  * Address variable `h1` font-size and margin within `section` and `article`
