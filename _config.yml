@@ -1,7 +1,7 @@
 # Setup
 name:         George Woods
 tagline:      Customer Engineer - Global Technical Team at Micrsoft
-baseurl:      ""
+baseurl:      "jekyll-architect-theme/"
 locale:       "en"
 
 # Gems
