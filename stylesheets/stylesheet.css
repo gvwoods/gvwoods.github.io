@@ -415,7 +415,7 @@ optgroup {
 
 /* Add a background color to the top navigation */
 .topnav {
-  background-color: #2e7bcf;
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   overflow: hidden;
 }
 
@@ -427,7 +427,7 @@ optgroup {
   padding: 14px 16px;
   text-decoration: none;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 /* Change the color of links on hover */
