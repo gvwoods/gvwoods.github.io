@@ -1,6 +1,8 @@
 Welcome to my site.
 
-I am a Customer Engineer on the Global Techincal Team for Data and AI at Microsoft! Working at Microsoft has been a long time dream for me and I am ecstatic that it has come true. Below are my current Certifications.
+I am a Customer Engineer on the Global Techincal Team for Data and AI at Microsoft! Working at Microsoft has been a long time dream for me and I am ecstatic that it has come true. 
+
+Below are my current Certifications.
 
 <img src="images/certsweb.png" alt="test" width="450" height="100">
 
