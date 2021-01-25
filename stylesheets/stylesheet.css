@@ -415,7 +415,7 @@ optgroup {
 
 /* Add a background color to the top navigation */
 .topnav {
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  background: #f3f3f3;
   overflow: hidden;
 }
 
