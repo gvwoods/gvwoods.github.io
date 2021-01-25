@@ -25,4 +25,3 @@ Coaching youth baseball, softball and soccer on and off since 2010.
 
 A few things that many people don’t know about me. I founded the first ever all Digital Film Festival in the world. I wrote, directed and edited a feature length film, it was not very good though. I won a trip for being the top vacuum cleaner salesman in the region. I hung out with Bill Murray and Woody Harrelson on the set of Kingpin. I won numerous billiards tournaments while a teenager. I rebuilt the engine of a 1979 Camaro Z28. I had blogger credentials for the 2009 and 2010 Oracle Open Worlds. I once worked out in a hotel gym with President Obama on the elliptical beside me.
 
-Disclaimer: All posts and information on this blog are my opinions, not my employers.
