@@ -413,20 +413,21 @@ optgroup {
 /* Top Navigation
    ========================================================================== */
 
-/* Add a black background color to the top navigation */
+/* Add a background color to the top navigation */
 .topnav {
-  background-color: #333;
+  background-color: #2e7bcf;
   overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
+  float: right;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 14px;
 }
 
 /* Change the color of links on hover */
@@ -440,6 +441,7 @@ optgroup {
   background-color: #4CAF50;
   color: white;
 }
+
 
 
 /* Tables
