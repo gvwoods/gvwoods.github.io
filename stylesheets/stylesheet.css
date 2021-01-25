@@ -415,8 +415,7 @@ optgroup {
 
 /* Add a background color to the top navigation */
 .topnav {
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  overflow: hidden;
+ 
 }
 
 /* Style the links inside the navigation bar */
@@ -425,6 +424,7 @@ optgroup {
   color: #f2f2f2;
   text-align: center;
   text-decoration: none;
+  padding 14px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 20px;
 }
