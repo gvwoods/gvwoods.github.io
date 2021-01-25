@@ -415,7 +415,7 @@ optgroup {
 
 /* Add a background color to the top navigation */
 .topnav {
-  background: #f3f3f3;
+  background: #ffffff;
   overflow: hidden;
 }
 
@@ -439,7 +439,7 @@ optgroup {
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #4CAF50;
-  color: white;
+  color: black;
 }
 
 
