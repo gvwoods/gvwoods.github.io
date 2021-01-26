@@ -4,7 +4,7 @@ I am a Customer Engineer on the Global Techincal Team for Azure Data and AI at M
 
 Below are my current Certifications.
 
-<img src="images/Bio.PNG" alt="Oops they didn't load" width="550" height="150">
+<img src="images/Bio.PNG" alt="Oops they didn't load" width="600" height="100">
 
 
 I have been working (getting paid), in IT since the turn of the century, but I have been passionate about technology for as long as I can remember.
