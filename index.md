@@ -1,6 +1,6 @@
 Welcome to my site.
 
-I am a Customer Engineer on the Global Techincal Team for Data and AI at Microsoft! Working at Microsoft has been a long time dream for me and I am ecstatic that it has come true. 
+I am a Customer Engineer on the Global Techincal Team for Azure Data and AI at Microsoft. Working at Microsoft has been a long time dream for me and I am ecstatic that it has come true. 
 
 Below are my current Certifications.
 
@@ -15,7 +15,7 @@ Before becoming a professional, I dabbled with web development, working mainly w
 
 I have two Bachelor Degrees, a BS in Computer Science and a BA in Advertising/Communications.
 
-My current skillset: Oracle Database Administration (vers. 10-12), SQL Server Database Administration (vers. 2000-2017), Microsoft Azure, Microsoft Business Intelligence Development (SSIS, SSAS, SSRS), Power BI, Agile Data Warehouse Design, Agile Scrum Master training, Systems (AIX, Linux(OEL/RHEL) and Windows 2000-2016), Programming (Powershell, Shell Scripts, C#)
+My current skillset: Azure Synapse, Azure Data Factory, Power BI, Azure and on-prem SQL Server Database Administration, other Azxure products, Oracle Database Administration (vers. 10-12), Microsoft Business Intelligence Development (SSIS, SSAS, SSRS), Agile Data Warehouse Design, Agile Scrum Master training, Systems (AIX, Linux(OEL/RHEL) and Windows 2000-2016), Programming (Powershell, Shell Scripts, C#)
 
 Some of my other interests: Disney, Space, movies, especially tech and documentary movies.
 
