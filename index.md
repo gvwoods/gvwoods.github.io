@@ -1,3 +1,8 @@
+Welcome to my site. 
+
+I am a Customer Engineer on the Global Technical Team for Azure Data and AI at Microsoft. On here you will find blog posts, videos and a little about me.
+
+
 
 
 [![Export data from SQL DB to CSV Using the Copy Data Tool in Azure Data Factory](https://img.youtube.com/vi/V7IJU-tHBpg/mqdefault.jpg)](https://youtu.be/V7IJU-tHBpg)
@@ -15,11 +20,7 @@
 
 
 
-
-Welcome to my site.
-
-I am a Customer Engineer on the Global Techincal Team for Azure Data and AI at Microsoft. Working at Microsoft has been a long time dream for me and I am ecstatic that it has come true. 
-
+About Me.
 
 <img src="images/Bio.PNG" alt="Oops they didn't load" width="690" height="120">
 
