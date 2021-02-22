@@ -1,8 +1,10 @@
-Welcome to my site. 
+<span style="color:blue">**Welcome to my site.**</span> 
 
 I am a Customer Engineer on the Global Technical Team for Azure Data and AI at Microsoft. On here you will find blog posts, videos and a little [About Me](About.md).
 
 
+----------------------------------------------------------------------------------------------------------
+<span style="color:blue">**Recent Posts**</span>
 ----------------------------------------------------------------------------------------------------------
 
 [![Export data from SQL DB to CSV Using the Copy Data Tool in Azure Data Factory](https://img.youtube.com/vi/V7IJU-tHBpg/mqdefault.jpg)](https://youtu.be/V7IJU-tHBpg)
