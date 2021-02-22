@@ -1,6 +1,6 @@
 Welcome to my site. 
 
-I am a Customer Engineer on the Global Technical Team for Azure Data and AI at Microsoft. On here you will find blog posts, videos and a little about me.
+I am a Customer Engineer on the Global Technical Team for Azure Data and AI at Microsoft. On here you will find blog posts, videos and a little [About Me](About.md).
 
 
 ----------------------------------------------------------------------------------------------------------
