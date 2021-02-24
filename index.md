@@ -1,6 +1,6 @@
 
 <div id="home">
-  <h1>Welcome to my site.</h1>
+  <h2>Welcome to my site.</h2>
   </div>
 
 
