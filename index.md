@@ -10,7 +10,7 @@ I am a Customer Engineer on the Global Technical Team for Azure Data and AI at M
 
 
 <div id="home">
-  <h2>Recent Videos.</h2>
+  <h2>Recent Videos</h2>
 
 ----------------------------------------------------------------------------------------------------------
 
