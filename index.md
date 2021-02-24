@@ -1,6 +1,7 @@
 
 <div id="home">
   <h1>Welcome to my site.</h1>
+  </div>
 
 
 I am a Customer Engineer on the Global Technical Team for Azure Data and AI at Microsoft. On here you will find [Blog posts](blog.md), videos and a little [About Me](About.md).
@@ -11,6 +12,7 @@ I am a Customer Engineer on the Global Technical Team for Azure Data and AI at M
 
 <div id="home">
   <h2>Recent Videos</h2>
+  </div>
 
 ----------------------------------------------------------------------------------------------------------
 
