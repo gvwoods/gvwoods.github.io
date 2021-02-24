@@ -1,11 +1,11 @@
 <span style="color:blue">**Welcome to my site.**</span> 
 
-I am a Customer Engineer on the Global Technical Team for Azure Data and AI at Microsoft. On here you will find blog posts, videos and a little [About Me](About.md).
+I am a Customer Engineer on the Global Technical Team for Azure Data and AI at Microsoft. On here you will find [Blog posts](blog.md), videos and a little [About Me](About.md).
 
 
 ----------------------------------------------------------------------------------------------------------
 
-<span style="color:blue">**Recent Posts**</span>
+<span style="color:blue">**Recent Videos**</span>
 
 ----------------------------------------------------------------------------------------------------------
 
