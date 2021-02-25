@@ -528,27 +528,6 @@ header h2 {
   margin: 0 auto;
 }
 
-.innerhead {
-  position: relative;
-  width: 940px;
-  margin: 0 auto;
-}
-
-.innerhead a:link
-{
-    color:#FFFFFF;
-}
-
-.innerhead a:visited
-{
-    color:#FFFFFF;
-}
-
-.innerhead a:hover 
-{
-    color:#FFFFFF;
-}
-
 
 #content-wrapper {
   padding-top: 30px;
