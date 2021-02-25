@@ -1,6 +1,6 @@
 
 <div id="home">
-  <h2>Welcome to my site.</h2>
+  <h1>Welcome to my site.</h1>
   </div>
 
 
@@ -10,8 +10,8 @@ I am a Customer Engineer on the Global Technical Team for Azure Data and AI at M
 ----------------------------------------------------------------------------------------------------------
 
 <div id="home">
-  <h2>Recent Videos    
-    </h2>
+  <h1>Recent Videos    
+    </h1>
   </div>
 
 **[SUBSCRIBE](https://www.youtube.com/channel/UCIwAYqCC5fwD5sKatyFcPQA?sub_confirmation=1)** and keep up to date on my latest videos
