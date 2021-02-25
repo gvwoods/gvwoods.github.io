@@ -10,7 +10,7 @@ newslite-default-layout:
   - right-sidebar
 newslite-single-post-image-align:
   - full
-image: /wp-content/uploads/2019/12/IMG_1871.jpg
+image: ../images/IMG_1871.jpg
 categories:
   - Travel
 ---
