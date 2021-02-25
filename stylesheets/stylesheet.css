@@ -498,6 +498,21 @@ header {
   border-bottom: solid 1px #275da1;
 }
 
+header a:link
+{
+    color:#FFFFFF;
+}
+
+header a:visited
+{
+    color:#FFFFFF;
+}
+
+header a:hover 
+{
+    color:#FFFFFF;
+}
+
 header h1 {
   width: 540px;
   margin-top: 0;
