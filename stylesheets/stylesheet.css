@@ -528,17 +528,23 @@ header h2 {
   margin: 0 auto;
 }
 
-.inner a:link
+.innerhead {
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+}
+
+.innerhead a:link
 {
     color:#FFFFFF;
 }
 
-.inner a:visited
+.innerhead a:visited
 {
     color:#FFFFFF;
 }
 
-.inner a:hover 
+.innerhead a:hover 
 {
     color:#FFFFFF;
 }
