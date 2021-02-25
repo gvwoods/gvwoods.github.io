@@ -9,10 +9,13 @@ I am a Customer Engineer on the Global Technical Team for Azure Data and AI at M
 
 ----------------------------------------------------------------------------------------------------------
 
-
 <div id="home">
-  <h2>Recent Videos</h2>
+  <h2>Recent Videos    
+    </h2>
   </div>
+
+**[SUBSCRIBE](https://www.youtube.com/channel/UCIwAYqCC5fwD5sKatyFcPQA?sub_confirmation=1)** and keep up to date on my latest videos
+
 
 ----------------------------------------------------------------------------------------------------------
 
