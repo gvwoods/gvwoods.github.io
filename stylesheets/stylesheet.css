@@ -507,6 +507,7 @@ header h1 {
   line-height: 1;
   color: #fff;
   letter-spacing: -1px;
+  text-decoration: none;
 }
 
 header h2 {
