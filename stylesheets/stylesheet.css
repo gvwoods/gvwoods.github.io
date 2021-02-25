@@ -498,20 +498,7 @@ header {
   border-bottom: solid 1px #275da1;
 }
 
-header a:link
-{
-    color:#FFFFFF;
-}
 
-header a:visited
-{
-    color:#FFFFFF;
-}
-
-header a:hover 
-{
-    color:#FFFFFF;
-}
 
 header h1 {
   width: 540px;
@@ -540,6 +527,22 @@ header h2 {
   width: 940px;
   margin: 0 auto;
 }
+
+.inner a:link
+{
+    color:#FFFFFF;
+}
+
+.inner a:visited
+{
+    color:#FFFFFF;
+}
+
+.inner a:hover 
+{
+    color:#FFFFFF;
+}
+
 
 #content-wrapper {
   padding-top: 30px;
