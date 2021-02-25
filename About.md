@@ -1,7 +1,7 @@
 
 
 <div id="home">
-  <h2>About Me</h2>
+  <h1>About Me</h1>
   </div>
 
 <img src="images/Bio.PNG" alt="Oops they didn't load" width="690" height="120">
