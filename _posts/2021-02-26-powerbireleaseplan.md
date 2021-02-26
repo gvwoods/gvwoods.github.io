@@ -4,7 +4,7 @@ title: Power BI Release Plan
 date: 2021-02-26 T10:11:12-04:00
 author: George Woods
 layout: post
-permalink: /2021-02-26-powerbireleaseplan/
+permalink: /2021/02/26/powerbireleaseplan/
 categories:
   - Business Intelligence
   - Power BI
