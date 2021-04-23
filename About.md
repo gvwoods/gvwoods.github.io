@@ -4,7 +4,7 @@
   <h1>About Me</h1>
   </div>
 
-<img src="images/Bio.PNG" alt="Oops they didn't load" width="690" height="120">
+<img src="images/certs04232021.jpg" alt="Oops they didn't load" width="690" height="120">
 
 
 As a Customer Engineer at Microsoft, I train and assist Customers with their Data journey. I specialize in cloud technologies such as Azure Synapse, Power BI, Azure Data Factory and Azure SQL DB, along with the on-premises technologies SQL Server, Analysis Services and Reporting Services. I have trained 1000’s of professionals from a wide variety of industries such as Education, Government, Retail, Healthcare and Commercial in Microsoft Data technologies. 
