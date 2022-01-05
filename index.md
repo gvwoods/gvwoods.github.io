@@ -28,7 +28,7 @@ I am a Sr. Customer Engineer on the Global Technical Team for Azure Data and AI 
 
 [![Cross Filter Direction in Power BI](https://img.youtube.com/vi/30OrlrKbXsw/mqdefault.jpg)](https://youtu.be/30OrlrKbXsw)
 
-[Cross Filter Direction in Power BI](https://youtu.be/30OrlrKbXsw) - Learn what happens when you choose single or both cross filter direction in the Edit Relationships window in Power BI desktop. >> Feb. 15, 2022 
+[Cross Filter Direction in Power BI](https://youtu.be/30OrlrKbXsw) - Learn what happens when you choose single or both cross filter direction in the Edit Relationships window in Power BI desktop. >> Feb. 15, 2021 
 
 
 
