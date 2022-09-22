@@ -4,7 +4,7 @@
   </div>
 
 
-I am a Sr. Customer Engineer on the Global Technical Team for Azure Data and AI at Microsoft. On here you will find [Blog posts](blog.md), videos and a little [About Me](About.md).
+I am a Sr. Cloud Solution Architect on the Global Technical Team for Azure Data and AI at Microsoft. On here you will find [Blog posts](blog.md), videos and a little [About Me](About.md).
 
 
 ----------------------------------------------------------------------------------------------------------
