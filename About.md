@@ -29,7 +29,7 @@ Some of my other interests: Disney, Space, movies, especially tech and documenta
 
 Running: Unfortunately, I have been struggling with leg issues for some time now, so I haven’t been able to do much running, but previously I have completed countless 5k’s, 10k’s, 1/2 marathons and these other races. Marathons (Columbus, OH, Knoxville, TN, 2x Pittsburgh, PA and Philadelphia, PA), 2 x Disney Goofy Race ( 1/2 marathon on Saturday and full marathon on Sunday)
 
-Coaching youth baseball, softball and soccer on and off since 2010.
+Coached youth baseball, softball and soccer from 2010 to 2020.
 
 A few things that many people don’t know about me. I founded the first ever all Digital Film Festival in the world. I wrote, directed and edited a feature length film, it was not very good though. I won a trip for being the top vacuum cleaner salesman in the region. I hung out with Bill Murray and Woody Harrelson on the set of Kingpin. I won numerous billiards tournaments while a teenager. I rebuilt the engine of a 1979 Camaro Z28. I had blogger credentials for the 2009 and 2010 Oracle Open Worlds. I once worked out in a hotel gym with President Obama on the elliptical beside me.
 
