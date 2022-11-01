@@ -19,7 +19,8 @@ I have two Bachelor Degrees, a BS in Computer Science and a BA in Advertising/Co
 
 I am currently pursuing my Master's in Corporate Innovation and Entrepreneurship at Penn State. 
 
-![Penn State Smeal College of Business](https://sqlgeorge.com/images/PennState-Smeal-small.png "Penn State Smeal College of Business")
+
+<img src="images/PennState-Smeal-small.png" alt="Penn State Smeal College of Business">
 
 
 My current skillset: Azure Synapse, Azure Data Factory, Power BI, Azure and on-prem SQL Server Database Administration, other Azxure products, Oracle Database Administration (vers. 10-12), Microsoft Business Intelligence Development (SSIS, SSAS, SSRS), Agile Data Warehouse Design, Agile Scrum Master training, Systems (AIX, Linux(OEL/RHEL) and Windows 2000-2016), Programming (Powershell, Shell Scripts, C#)
