@@ -6,7 +6,7 @@
 
 I am a Sr. Cloud Solution Architect on the Corporate Team at Microsoft for Azure Data and AI. On here you will find [Blog posts](blog.md), videos and a little [About Me](About.md). 
 
-I am also pursuing my Master's in Corporate Innovation and Entrepreneurship at Penn State. 
+I am currently pursuing my Master's in Corporate Innovation and Entrepreneurship at Penn State. 
 
 ![Penn State Smeal College of Business](https://sqlgeorge.com/images/PennState-Smeal-small.png "Penn State Smeal College of Business")
 
