@@ -34,7 +34,7 @@ To optimize your data lakehouse design with ADLS Gen2, you can follow some best 
 
 One common pattern for structuring your data sets in ADLS Gen2 is to use three layers: bronze, silver, and gold. The bronze layer contains raw or unprocessed data that is ingested from various sources. The silver layer contains cleansed or transformed data that is ready for analysis. The gold layer contains aggregated or enriched data that provides business insights.
 
-The following diagram illustrates this pattern: ***it did recommend a link for an image that did not exists. see below***
+The following diagram illustrates this pattern: ***it did recommend a link for an image that does not exists. see below***
 
 ![image](https://docs.microsoft.com/en-us/azure/storage/blobs/media/data-lake-storage-best-practices/data-lake-storage-gen2-best-practices.png)
 
