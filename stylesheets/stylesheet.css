@@ -450,7 +450,6 @@ optgroup {
 .logogeo {
     float: left;
     display: inline-block;
-    vertical-align: top;
 
 }
 .navigation-bar > a {
