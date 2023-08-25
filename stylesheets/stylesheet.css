@@ -496,6 +496,11 @@ header {
   background: #FFFFFF  0 0 no-repeat;
 }
 
+logoleft { 
+	position:fixed; 
+	top:0; 
+	left:0; 
+} 
 
 
 header h1 {
