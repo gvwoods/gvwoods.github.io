@@ -415,7 +415,7 @@ optgroup {
 
 /* Add a background color to the top navigation */
 .topnav {
-  background: #daf2c2 url(../images/body-bg.jpg) 0 0 no-repeat;
+  background: #fafafa url(../images/body-bg.jpg) 0 0 no-repeat;
   overflow: hidden;
 }
 
@@ -425,7 +425,6 @@ optgroup {
   color: #2e7bcf;
   text-align: center;
   text-decoration: none;
-
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 20px;
 }
@@ -444,6 +443,7 @@ optgroup {
 
 .logogeo {
   display: inline-block;
+  float:left;
 
 }
 
