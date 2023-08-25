@@ -415,7 +415,7 @@ optgroup {
 
 /* Add a background color to the top navigation */
 .topnav {
-  background: #ecedeb url(../images/body-bg.jpg) 0 0 no-repeat;
+  background: #fafafa url(../images/body-bg.jpg) 0 0 no-repeat;
   overflow: hidden;
 }
 
@@ -450,8 +450,9 @@ optgroup {
 .logogeo {
     float: left;
     display: inline-block;
-    position: relative;
-    margin-top:16px;
+    position: fixed;
+    top:0;
+    left:0;
 
 }
 .navigation-bar > a {
