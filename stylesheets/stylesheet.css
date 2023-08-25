@@ -421,7 +421,7 @@ optgroup {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
+  float: right;
   color: #2e7bcf;
   text-align: center;
   text-decoration: none;
