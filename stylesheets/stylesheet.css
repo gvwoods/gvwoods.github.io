@@ -442,18 +442,18 @@ optgroup {
   color: black;
 }
 
-.container {
+.container222 {
   position: relative;
 }
 
-.topleft {
+.topleft222 {
   position: absolute;
   top: 8px;
   left: 16px;
   font-size: 18px;
 }
 
-img { 
+img222 { 
   width: 100%;
   height: auto;
   opacity: 0.3;
