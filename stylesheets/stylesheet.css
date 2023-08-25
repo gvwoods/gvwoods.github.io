@@ -448,10 +448,9 @@ optgroup {
     background-color: red; /* change to desired color */
 }
 .logogeo {
+    float: left;
     display: inline-block;
     vertical-align: top;
-    width: 50px;
-    height: 50px;
     margin-right: 20px;
     padding: 100px;
 }
